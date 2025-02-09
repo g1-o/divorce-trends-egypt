@@ -23,3 +23,6 @@ This project analyzes divorce trends in Egypt using United Nations divorce data.
 ## Credits
 - Data provided by the United Nations Data Platform.
 
+## Dashboard Preview
+![Divorce Dashboard](dashboard/screenshots/Capture.png)
+
